@@ -2,4 +2,4 @@
 Hello world repository
 
 This is my first repository. 
-I prefere to work with java and telecomunication stuff.
+I prefer to work with java and telecomunication stuff.
